@@ -15,8 +15,10 @@ The app implements **localStorage** for persistence of user favorites and a **re
 - **HTML5** – semantic structure  
 - **CSS3** – base styling    
 - **Vanilla JavaScript (ES6)** – logic & DOM manipulation  
-- **TheCocktailDB API** – cocktail data source  
-- **Bootstrap Icons** – for icons 
+- Fetch API / REST API – communication with TheCocktailDB API
+- LocalStorage – storing user favorites in the browser
+- Git & GitHub – version control and code hosting
+- Netlify – deployment and live hosting
 
 ---
 
