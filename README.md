@@ -13,8 +13,7 @@ The app implements **localStorage** for persistence of user favorites and a **re
 
 ## 🛠️ Tech Stack
 - **HTML5** – semantic structure  
-- **CSS3** – base styling  
-- **Tailwind CSS** – responsive utility-first styling  
+- **CSS3** – base styling    
 - **Vanilla JavaScript (ES6)** – logic & DOM manipulation  
 - **TheCocktailDB API** – cocktail data source  
 - **Bootstrap Icons** – for icons 
